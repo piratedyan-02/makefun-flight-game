@@ -1,0 +1,34 @@
+{
+  "context": [
+    {
+      "bytes": 1878,
+      "kind": "session",
+      "name": "handed-over-session.json",
+      "role": "transcript",
+      "sha256": "c5592bd521ee8f83072b800cab9b55bdc6a8db162ac6198f3c10ac179212c06b"
+    }
+  ],
+  "declared": {
+    "harness": "muse",
+    "harness_version": "unrecorded",
+    "model": "muse-spark-1.3",
+    "notes": "Handed-over session: hosted cloud browser agent keeps no session record on disk and no bundle flag fetches it. Entry repo https://github.com/piratedyan-02/makefun-flight-game commit d8486aaf03ec45922f6c815dbe94ae9229527602",
+    "provider": "meta",
+    "reasoning_effort": "default"
+  },
+  "format": "makefun-run/1",
+  "instructions": {
+    "status": "none",
+    "why": null
+  },
+  "mcp_servers": [],
+  "prompt": {
+    "origin": "user",
+    "text": "Build the next make.fun entries automatically. best-flight-game-20261126-0057 \u2014 Make the best flight game, $500, closes 2026-11-28 07:57 WIB. Use ~/workspace/custom-skills/makefun-html5-canvas-games/SKILL.md.",
+    "via": null
+  },
+  "system_prompt": {
+    "status": "included",
+    "why": null
+  }
+}
