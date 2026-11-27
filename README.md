@@ -1,3 +1,7 @@
+[![make.fun](https://make.fun/badge/best-flight-game-20261126-0057.svg)](https://make.fun/bounty/best-flight-game-20261126-0057)
+[![Rank](https://make.fun/badge/best-flight-game-20261126-0057/piratedyan-02/makefun-flight-game/rank.svg)](https://make.fun/bounty/best-flight-game-20261126-0057)
+[![Reward](https://make.fun/badge/best-flight-game-20261126-0057/piratedyan-02/makefun-flight-game/reward.svg)](https://make.fun/bounty/best-flight-game-20261126-0057)
+
 # Coral Isles Sky Courier
 
 Entry for the make.fun bounty **"Make the best flight game"**
